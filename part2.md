@@ -1,7 +1,7 @@
 # Building a realtime team dashboard app with node.js and Backbone.js
 ## Part 2 of 2: Building the client
 
-Alright, last month, in part 1 we covered all the basics of setting up the server-side portion of our team dashboard. Be sure to check last month's issue for all the prerequisite setup. You can also reference the completed application on github: [https://github.com/HenrikJoreteg/sample-dashboard.andbang.com](https://github.com/HenrikJoreteg/sample-dashboard.andbang.com)
+Alright, last month, in part 1 we covered all the basics of setting up the server-side portion of our team dashboard. Be sure to check last month's issue for all the prerequisite setup. You can also reference the completed application on github: https://github.com/andyet/sample-dashboard.andbang.com
 
 Here's what we're building:
 !["Team dashboard app screenshot"](http://f.cl.ly/items/2w010C3Q0G1W1c1N3H2R/Screen%20Shot%202012-11-12%20at%2012.22.00%20AM.png)
